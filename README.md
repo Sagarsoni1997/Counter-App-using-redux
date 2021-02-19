@@ -1,2 +1,2 @@
 # Counter-App-using-redux
-Here we see how we get state from central store and how we change it using Reducer and action in Redux
+Here we see how we get state from central store and how we change it using Reducer and action in Redux. Here we also use 2 states and also teach you how to get data from central store for both state and also how we change it using Redux Hooks { useSelector, useDispatch }..hopw you guys like this...
